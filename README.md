@@ -2,4 +2,4 @@
 Текст задания: Написать unit тесты для своих вариантов из лабораторной работы №3.
 
 
-![image](https://github.com/VVSnegirev/Lab_rab_4/assets/124861933/8e3b77c9-a42e-48b5-bcc7-59ad7e7cdc24)
+
